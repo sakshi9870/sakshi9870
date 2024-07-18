@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAKSHI SANDEEP VICHARE</h1>
-<h3 align="center">A self-taught, self-motivated, multitasking, vibrant, and proactive individual with a penchant for generating innovative ideas.</h3>
+<h3 align="center">A multitasking, vibrant, and proactive individual with a penchant for generating innovative ideas.</h3>
 
 - 🔭 I’m currently working on [https://reliable-frog-l10vm2.mystrikingly.com/](https://reliable-frog-l10vm2.mystrikingly.com/)
 
